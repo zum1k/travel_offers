@@ -1,0 +1,9 @@
+{
+  "travel": "TRAVEL",
+  "location": "MIDDLESEA",
+  "transport": "BUS",
+  "residence": "HOTEL",
+  "food": "THREETIMESFOOD",
+  "priceLowerBorder": 0.0,
+  "priceHigherBorder": 1600.0
+}
